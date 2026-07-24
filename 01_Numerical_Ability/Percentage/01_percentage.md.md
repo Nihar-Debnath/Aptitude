@@ -22,7 +22,7 @@ What is **20% of 150**?
 
 = **30**
 
-### Example 3
+### Example 3![alt text](1.png)
 
 A shirt's price increases from ₹500 to ₹600.
 
