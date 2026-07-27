@@ -1,0 +1,5 @@
+dented
+
+crusade
+
+satirical
