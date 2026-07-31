@@ -4,11 +4,13 @@
 
 ### Reasoning Ability
 - **Learning Source:** https://www.youtube.com/watch?v=sWJfscVkhLI
-- **Current Timestamp:** `1:39:20`
+- **Current Timestamp:** `2:02:46`
 
 ##### Problem Solving Progress
+
 1. **Chapter:** Deductive and Inductive Reasoning
     1. **Part:** Statement & Conclusion
+        - **PYQ:** `0`
         - **Last Completed Practice Question:** `0`
     2. **Part:** Statement & Argument
         - **PYQ:** `Total 4 = done all`
@@ -22,3 +24,12 @@
     5. **Part:** Grouping questions
         - **PYQ:** `0`
         - **Last Completed Practice Question:** `0`
+    6. **Part:** Mathametical questions
+        - **PYQ:** `0`
+        - **Last Completed Practice Question:** `0`
+
+2. **Chapter:** Letter & Number series
+    1. **Part:** Number Series
+        - **PYQ:** `0`
+        - **Last Completed Practice Question:** `0`
+    
