@@ -1,3 +1,7 @@
+# Remember this if you cant memorize this thing then someone else will do and that person will get the job
+
+
+
 Yes. For **Letter & Number Series** (especially TCS, Cognizant, Accenture, Infosys, Wipro), these are the prerequisites you should know.
 
 ---

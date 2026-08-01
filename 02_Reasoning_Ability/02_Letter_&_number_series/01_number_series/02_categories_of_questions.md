@@ -2,6 +2,8 @@ This list is actually a **checklist of every pattern** that can appear in a Lett
 
 Let's understand each one.
 
+![alt text](./category.png)
+
 ---
 
 # 1. Difference Series ⭐⭐⭐⭐⭐

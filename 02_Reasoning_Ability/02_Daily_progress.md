@@ -4,7 +4,7 @@
 
 ### Reasoning Ability
 - **Learning Source:** https://www.youtube.com/watch?v=sWJfscVkhLI
-- **Current Timestamp:** `2:02:46`
+- **Current Timestamp:** `3:52:10`
 
 ##### Problem Solving Progress
 
@@ -32,4 +32,11 @@
     1. **Part:** Number Series
         - **PYQ:** `0`
         - **Last Completed Practice Question:** `0`
+    2. **Part:** Alphabetic & Aplha-numeric Series
+        - **PYQ:** `0`
+        - **Last Completed Practice Question:** `0`
+
+3. **Chapter:** Data Sufficiency
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
     

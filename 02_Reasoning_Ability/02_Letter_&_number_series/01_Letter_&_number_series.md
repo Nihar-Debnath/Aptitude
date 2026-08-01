@@ -34,6 +34,8 @@ Answer:
 
 There are mainly **7 types**.
 
+![](./types.png)
+
 ---
 
 ## 1. Number Series ⭐⭐⭐⭐⭐ (Most Common)
@@ -441,3 +443,10 @@ We'll study it in this order:
 9. ✅ Advanced Pattern Recognition (TCS/Cognizant level)
 
 This order builds your pattern-recognition skills gradually, and by the end you'll be able to solve almost every Letter & Number Series question asked in placement exams.
+
+
+
+
+# Types of questions 
+
+![](./questions_types.png)

@@ -1,7 +1,5 @@
 ![](./images/image%20copy.png)
 
-This is a classic **Difference Series** question.
-
 The biggest mistake beginners make is trying to guess the answer by looking at the numbers.
 
 Instead, always follow the algorithm.

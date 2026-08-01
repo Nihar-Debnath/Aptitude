@@ -4,8 +4,8 @@
 
 ### Verbal Ability
 - **Learning Source:** https://www.youtube.com/watch?v=GDAVuWg0G8M
-- **Current Timestamp:** `2:00:10`
-- **Reading Compresension Timestamp:** `from 7:59:00 to 8:58:02`
+- **Starting Timestamps:** `2:04:40` - Paused
+- **Easy Concepts Timestamps:** `from 7:59:00 to 9:12:29` - Currently going on
 
 ##### Problem Solving Progress
 1. **Chapter:** Vocabulary (one shot done ✅)
@@ -13,7 +13,7 @@
         - **PYQ:** `Total 0 = pending`
         - **Last Completed Practice Question:** `10`
 
-2. **Chapter:** Sentence Correction (currently going on)
+2. **Chapter:** Sentence Correction (paused - its hard, if you dont know your basic grammer)
     - Before solving this chapter's questions, do complete the basic grammers, otherwise you will get **underwhelmed**
     1. **Part:** 4.13.2 Subject–Verb Agreement 
         - **PYQ:** `Total 0 = pending`
@@ -34,6 +34,14 @@
         - **Last Completed Practice Question:** `0`
 
 3. **Chapter:** Cloze test (one shot done ✅)
+    - **PYQ:** `Total 0 = pending`  
+    - **Last Completed Practice Question:** `0`
+
+4. **Chapter:** Articles (one shot done ✅)
+    - **PYQ:** `Total 0 = pending`  
+    - **Last Completed Practice Question:** `0`
+
+5. **Chapter:** Noun (going on)
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
 

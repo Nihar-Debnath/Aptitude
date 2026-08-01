@@ -1,5 +1,7 @@
 ![](./images/image.png)
 
+# This is a (1) Difference category question
+
 This is one of the **most important questions** because it teaches you **how to think** during a series question.
 
 Let's solve it first, then I'll give you a **universal algorithm** that works for almost every series.
@@ -64,3 +66,21 @@ Now
 ```
 
 ✅ Answer = **44**
+
+
+
+
+---
+---
+---
+---
+
+
+
+# This is a (2) Double Difference category question
+
+- Some times only finding the first row of difference cant solve the problem, thats why we need double diff
+
+- if double diff doesnt works then triple diff
+
+![](./images/image%20copy%202.png)
