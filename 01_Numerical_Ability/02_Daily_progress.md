@@ -4,7 +4,7 @@
 
 ### Numerical Ability
 - **Learning Source:** https://www.youtube.com/watch?v=S-Ji7aayH3A
-- **Current Timestamp:** `3:07:54`
+- **Current Timestamp:** `5:07:27`
 
 ##### Problem Solving Progress
 
@@ -25,6 +25,18 @@
     - **Last Completed Practice Question:** `0`
     - Solve its question after finishing the Numerical Ability
 
-5. **Chapter:** Data Interpretation (On going)
+5. **Chapter:** Data Interpretation (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `10`
+
+6. **Chapter:** Mensuration and Geometry (Paused - Need to clear basic concepts for solving its questions)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `10`
+
+7. **Chapter:** Profit & Loss (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `10`
+
+8. **Chapter:** Ratio & Proportion (One shot done ✅)
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `10`

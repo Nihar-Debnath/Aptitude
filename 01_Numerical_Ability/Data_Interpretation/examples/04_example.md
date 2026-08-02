@@ -430,182 +430,123 @@ This is just a Percentage chapter question.
 
 Formula
 
-[
+\[
 \frac{\text{New}-\text{Old}}{\text{Old}}\times100
-]
+\]
 
 ---
 
-Substitute
 
-[
+\[
 \frac{60-46}{46}\times100
-]
-
-[
-=\frac{14}{46}\times100
-]
-
-Teacher noticed
-
-```text
-46≈42
-```
-
-because
-
-[
-\frac{14}{42}
-=\frac13
-]
-
-and
-
-[
-\frac13\times100
-=33.33%
-]
-
-But
-
-46 is bigger than42.
-
-So
-
-[
-\frac{14}{46}
-<
-\frac{14}{42}
-]
-
-Therefore answer is
-
-slightly less than33.33%
-
-Among options
-
-```text
-35.43
-
-33.43
-
-30.43
-
-34.43
-```
-
-Closest is
-
-```text
-33.43%
-```
-
----
-
-# The Thinking Process (Most Important)
-
-Whenever you see a DI question, follow this exact order.
-
-### Step 1
-
-Read the English.
-
-Ask
-
-> What is it asking?
-
----
-
-### Step 2
-
-Understand every graph separately.
-
-Never mix them.
-
-Example
-
-```text
-Pie Chart
-
-↓
-
-Population distribution
-```
-
-```text
-Bar Graph
-
-↓
-
-Illiteracy percentage
-```
-
----
-
-### Step 3
-
-If total population isn't given,
-
-and only percentages are used,
-
-immediately assume
-
-```text
-Total=100
-```
-
-This is a standard DI trick.
-
----
-
-### Step 4
-
-Convert percentages into actual numbers.
-
-Example
-
-```text
-60%
-
-of40
-
 =
+\frac{14}{46}\times100
+\]
 
-24
-```
+The trick is to choose a **nearby denominator that makes the fraction easy**.
 
-Now everything becomes normal arithmetic.
+Here:
+
+* Numerator = **14**
+* Denominator = **46**
+
+A nearby number divisible by 14 is:
+
+\[
+42=14\times3
+\]
+
+So,
+
+\[
+\frac{14}{42}=\frac13=33.33%
+\]
+
+Now compare the denominators:
+
+* Approximation used: **42**
+* Actual denominator: **46**
+
+Since **46 > 42**,
+
+\[
+\frac{14}{46} < \frac{14}{42}
+\]
+
+So the actual percentage is **less than 33.33%**.
+
+Now look at the options:
+
+* 35.43% ❌ (greater than 33.33%)
+* 33.43% ❌ (also greater than 33.33%)
+* 30.43% ✅ (less than 33.33%)
+* 34.43% ❌ (greater than 33.33%)
+
+Therefore, the correct choice is:
+
+\[
+\boxed{30.43}
+\]
+
+My earlier conclusion ("closest to 33.33%") was incorrect because I didn't apply the inequality to eliminate options above 33.33%.
 
 ---
 
-### Step 5
+## The shortcut rule (your observation)
 
-Only then solve the final question.
+This is a very useful placement-exam trick:
+
+1. Keep the **numerator unchanged**.
+2. Replace the denominator with a **nearby convenient multiple of the numerator**.
+3. Compute the easy fraction.
+4. Compare the actual denominator with the approximate denominator:
+
+   * **Actual denominator is larger** ⟶ actual value is **smaller**.
+   * **Actual denominator is smaller** ⟶ actual value is **larger**.
+5. Choose the option on the correct side of the approximate value.
+
+### Example 1
+
+\[
+\frac{18}{58}
+\]
+
+Take (54 = 18 \times 3):
+
+\[
+\frac{18}{54}=\frac13=33.33%
+\]
+
+Since (58 > 54),
+
+\[
+\frac{18}{58}<33.33%
+\]
+
+Choose an option **below 33.33%**.
 
 ---
 
-# One thing to notice
+### Example 2
 
-This question is **not actually a Data Interpretation question**.
+\[
+\frac{18}{52}
+\]
 
-It's a combination of:
+Again use (54):
 
-* Reading a **Pie Chart**
-* Reading a **Bar Graph**
-* Applying **Percentages**
-* Applying **Percentage Increase**
+\[
+\frac{18}{54}=33.33%
+\]
 
-The graphs only provide the data. The actual mathematics is just arithmetic.
+But now (52 < 54), so
+
+\[
+\frac{18}{52}>33.33%
+\]
+
+Choose an option **above 33.33%**.
 
 ---
 
-## From now on, here's how we'll solve every DI problem
-
-We'll always use this sequence:
-
-1. **Translate the English into simple English.**
-2. **Understand what each graph represents.**
-3. **Convert percentages into actual numbers (often by assuming total = 100).**
-4. **Solve the arithmetic.**
-
-This prevents confusion because you're never trying to interpret graphs and calculate at the same time.
+This shortcut is especially useful in placement exams like TCS, Cognizant, and Accenture because the options are usually spaced far enough apart that you can eliminate three choices without doing full division.

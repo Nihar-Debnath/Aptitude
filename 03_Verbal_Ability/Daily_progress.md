@@ -5,7 +5,7 @@
 ### Verbal Ability
 - **Learning Source:** https://www.youtube.com/watch?v=GDAVuWg0G8M
 - **Starting Timestamps:** `2:04:40` - Paused
-- **Easy Concepts Timestamps:** `from 7:59:00 to 9:12:29` - Currently going on
+- **Easy Concepts Timestamps:** `from 7:59:00 to 10:18:06` - Currently going on
 
 ##### Problem Solving Progress
 1. **Chapter:** Vocabulary (one shot done ✅)
