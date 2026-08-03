@@ -5,9 +5,10 @@
 ### Verbal Ability
 - **Learning Source:** https://www.youtube.com/watch?v=GDAVuWg0G8M
 - **Starting Timestamps:** `2:04:40` - Paused
-- **Easy Concepts Timestamps:** `from 7:59:00 to 10:18:06` - Currently going on
+- **Easy Concepts Timestamps:** `from 7:59:00 to end` - Done
 
 ##### Problem Solving Progress
+
 1. **Chapter:** Vocabulary (one shot done ✅)
     1. **Part:** 4.1.1 Word Meanings (Contextual Vocabulary)
         - **PYQ:** `Total 0 = pending`
@@ -33,15 +34,19 @@
         - **PYQ:** `Total 0 = pending`
         - **Last Completed Practice Question:** `0`
 
-3. **Chapter:** Cloze test (one shot done ✅)
+4. **Chapter:** Cloze test (one shot done ✅)
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
 
-4. **Chapter:** Articles (one shot done ✅)
+5. **Chapter:** Articles (one shot done ✅)
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
 
-5. **Chapter:** Noun (going on)
+6. **Chapter:** Noun (one shot done ✅)
+    - **PYQ:** `Total 0 = pending`  
+    - **Last Completed Practice Question:** `0`
+
+7. **Chapter:** Subject Verb Agreement (one shot done ✅)
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
 

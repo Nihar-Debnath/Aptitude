@@ -1,0 +1,1 @@
+![](../06_Noun/02_singular_&_plural.md)

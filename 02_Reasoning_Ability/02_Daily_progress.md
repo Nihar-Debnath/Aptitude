@@ -4,7 +4,7 @@
 
 ### Reasoning Ability
 - **Learning Source:** https://www.youtube.com/watch?v=sWJfscVkhLI
-- **Current Timestamp:** `3:52:10`
+- **Current Timestamp:** `5:23:52`
 
 ##### Problem Solving Progress
 
@@ -40,3 +40,10 @@
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `0`
     
+4. **Chapter:** Pattern Recognition
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+5. **Chapter:** Syllogism (currently goin on)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`

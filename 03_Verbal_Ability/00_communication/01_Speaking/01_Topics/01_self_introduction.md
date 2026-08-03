@@ -47,7 +47,11 @@ Example:
 
 # 5. Why did you choose software development?
 
-> "I enjoy solving problems and creating products that people can actually use. Software development gives me the opportunity to continuously learn while building practical solutions. That's what motivated me to pursue this field."
+> "One thing I really like about this field is that it's constantly evolving, so there's always something new to learn.
+
+> I also don't want to stay in one position or keep doing the same type of work throughout my career. I want to keep learning every aspect of technology and continuously improve myself. Software engineering offers a very broad spectrum of opportunities—from web development and cloud computing to DevOps, AI, cybersecurity, and many other areas—so it gives me the freedom to explore different domains and grow throughout my career.
+
+> Another reason is that I've watched many software engineers share their experiences on YouTube. Seeing how they solve real-world problems, build impactful products, collaborate with teams, and continue learning inspired me. That lifestyle and mindset motivated me to pursue software development as my career."
 
 ---
 
@@ -265,7 +269,7 @@ Examples:
 
 # 22. Why should we choose you over other candidates?
 
-> "As a fresher, I may not have industry experience yet, but I have invested a lot of time in building real-world projects and learning modern technologies like React, Next.js, Node.js, TypeScript, PostgreSQL, and Docker. I'm a quick learner, enjoy solving problems, and I'm committed to continuously improving. If given the opportunity, I'll work hard, learn quickly, and contribute positively to the team."
+> "As a fresher, I may not have industry experience yet, but I have invested a lot of time in building real-world projects and learning modern technologies like React, Next.js, Node.js, TypeScript, PostgreSQL, and Docker. I'm a quick learner, enjoy solving problems, and I'm committed to continuously improving. If given the opportunity, I'll work hard, and contribute positively to the team."
 
 ---
 
