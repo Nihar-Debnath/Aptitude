@@ -4,7 +4,9 @@
 
 ### Reasoning Ability
 - **Learning Source:** https://www.youtube.com/watch?v=sWJfscVkhLI
-- **Current Timestamp:** `5:23:52`
+- **Current Timestamp:** `4:58:39 - 5:55:43` paused the syllogism (confusing topic)
+- **Next Timestamp:** `7:21:00` Going on
+
 
 ##### Problem Solving Progress
 
@@ -44,6 +46,22 @@
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `0`
 
-5. **Chapter:** Syllogism (currently goin on)
+5. **Chapter:** Syllogism (paused)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+6. **Chapter:** Blood Relation
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+7. **Chapter:** Data arrangement
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+8. **Chapter:** Visual Reasoning
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+9. **Chapter:** Spatial Reasoning
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `0`

@@ -4,7 +4,7 @@
 
 ### Numerical Ability
 - **Learning Source:** https://www.youtube.com/watch?v=S-Ji7aayH3A
-- **Current Timestamp:** `5:07:27`
+- **Current Timestamp:** `7:13:17`
 
 ##### Problem Solving Progress
 
@@ -39,4 +39,12 @@
 
 8. **Chapter:** Ratio & Proportion (One shot done ✅)
     - **PYQ:** `0`
-    - **Last Completed Practice Question:** `10`
+    - **Last Completed Practice Question:** `0`
+
+9. **Chapter:** Time & Work (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+10. **Chapter:** Simplification (Goin on)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`

@@ -4,8 +4,8 @@
 
 ### Verbal Ability
 - **Learning Source:** https://www.youtube.com/watch?v=GDAVuWg0G8M
-- **Starting Timestamps:** `2:04:40` - Paused
-- **Easy Concepts Timestamps:** `from 7:59:00 to end` - Done
+- **Starting Timestamps:** `4:28:25`
+- **Easy Concepts Timestamps:** `from 7:49:23 to end` - Done
 
 ##### Problem Solving Progress
 
@@ -14,7 +14,7 @@
         - **PYQ:** `Total 0 = pending`
         - **Last Completed Practice Question:** `10`
 
-2. **Chapter:** Sentence Correction (paused - its hard, if you dont know your basic grammer)
+2. **Chapter:** Sentence Correction (one shot done ✅ - its hard, if you dont know your basic grammer)
     - Before solving this chapter's questions, do complete the basic grammers, otherwise you will get **underwhelmed**
     1. **Part:** 4.13.2 Subject–Verb Agreement 
         - **PYQ:** `Total 0 = pending`
@@ -47,6 +47,10 @@
     - **Last Completed Practice Question:** `0`
 
 7. **Chapter:** Subject Verb Agreement (one shot done ✅)
+    - **PYQ:** `Total 0 = pending`  
+    - **Last Completed Practice Question:** `0`
+
+8. **Chapter:** Para Jumbels (one shot done ✅)
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
 
