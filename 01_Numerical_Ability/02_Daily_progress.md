@@ -4,7 +4,7 @@
 
 ### Numerical Ability
 - **Learning Source:** https://www.youtube.com/watch?v=S-Ji7aayH3A
-- **Current Timestamp:** `7:13:17`
+- **Current Timestamp:** `8:07:14`
 
 ##### Problem Solving Progress
 
@@ -45,6 +45,18 @@
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `0`
 
-10. **Chapter:** Simplification (Goin on)
+10. **Chapter:** Simplification (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+11. **Chapter:** Speed, Time & Distance (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+12. **Chapter:** LCM HCF (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+13. **Chapter:** Linear Equation (One shot done ✅)
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `0`

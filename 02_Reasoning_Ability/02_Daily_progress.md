@@ -5,7 +5,7 @@
 ### Reasoning Ability
 - **Learning Source:** https://www.youtube.com/watch?v=sWJfscVkhLI
 - **Current Timestamp:** `4:58:39 - 5:55:43` paused the syllogism (confusing topic)
-- **Next Timestamp:** `7:21:00` Going on
+- **Next Timestamp:** `9:19:18` Going on
 
 
 ##### Problem Solving Progress
@@ -63,5 +63,17 @@
     - **Last Completed Practice Question:** `0`
 
 9. **Chapter:** Spatial Reasoning
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+10. **Chapter:** Attention to detail
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+11. **Chapter:** Venn Diagrams
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+12. **Chapter:** Calender
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `0`

@@ -4,7 +4,7 @@
 
 ### Verbal Ability
 - **Learning Source:** https://www.youtube.com/watch?v=GDAVuWg0G8M
-- **Starting Timestamps:** `4:28:25`
+- **Starting Timestamps:** `5:50:25`
 - **Easy Concepts Timestamps:** `from 7:49:23 to end` - Done
 
 ##### Problem Solving Progress
@@ -51,6 +51,10 @@
     - **Last Completed Practice Question:** `0`
 
 8. **Chapter:** Para Jumbels (one shot done ✅)
+    - **PYQ:** `Total 0 = pending`  
+    - **Last Completed Practice Question:** `0`
+
+8. **Chapter:** Sentence Completion (one shot done ✅)
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
 
