@@ -4,8 +4,7 @@
 
 ### Verbal Ability
 - **Learning Source:** https://www.youtube.com/watch?v=GDAVuWg0G8M
-- **Starting Timestamps:** `5:50:25`
-- **Easy Concepts Timestamps:** `from 7:49:23 to end` - Done
+- **One Shot Completed**
 
 ##### Problem Solving Progress
 
@@ -54,10 +53,10 @@
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
 
-8. **Chapter:** Sentence Completion (one shot done ✅)
+9. **Chapter:** Sentence Completion (one shot done ✅)
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
 
-
-
-# Next day, before starting the verbal ability core, must finish the basic grammer first!!!
+10. **Chapter:** One word substitution and verbal analogy (one shot done ✅)
+    - **PYQ:** `Total 0 = pending`  
+    - **Last Completed Practice Question:** `0`

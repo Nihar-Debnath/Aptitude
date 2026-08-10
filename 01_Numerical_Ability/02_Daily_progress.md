@@ -4,7 +4,7 @@
 
 ### Numerical Ability
 - **Learning Source:** https://www.youtube.com/watch?v=S-Ji7aayH3A
-- **Current Timestamp:** `8:07:14`
+- **Current Timestamp:** `10:53:22`
 
 ##### Problem Solving Progress
 
@@ -58,5 +58,33 @@
     - **Last Completed Practice Question:** `0`
 
 13. **Chapter:** Linear Equation (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+14. **Chapter:** Mixture & Aligation (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+15. **Chapter:** Permutation & Combination (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+16. **Chapter:** Simple & Compund Interest (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+16. **Chapter:** Average (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+17. **Chapter:** Divisibility Rules (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+18. **Chapter:** Partnership (One shot done ✅)
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+19. **Chapter:** Probability (goin on)
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `0`
