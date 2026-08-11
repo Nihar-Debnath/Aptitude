@@ -5,7 +5,7 @@
 ### Reasoning Ability
 - **Learning Source:** https://www.youtube.com/watch?v=sWJfscVkhLI
 - **Current Timestamp:** `4:58:39 - 5:55:43` paused the syllogism (confusing topic)
-- **Next Timestamp:** `9:19:18` Going on
+- **Next Timestamp:** `One Shot Done`
 
 
 ##### Problem Solving Progress
@@ -75,5 +75,17 @@
     - **Last Completed Practice Question:** `0`
 
 12. **Chapter:** Calender
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+13. **Chapter:** Coding Decoding
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+14. **Chapter:** Directions
+    - **PYQ:** `0`
+    - **Last Completed Practice Question:** `0`
+
+15. **Chapter:** Seating Arrangement
     - **PYQ:** `0`
     - **Last Completed Practice Question:** `0`

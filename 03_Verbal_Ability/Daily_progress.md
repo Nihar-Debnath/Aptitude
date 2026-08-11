@@ -60,3 +60,28 @@
 10. **Chapter:** One word substitution and verbal analogy (one shot done ✅)
     - **PYQ:** `Total 0 = pending`  
     - **Last Completed Practice Question:** `0`
+
+
+
+
+
+
+
+
+
+---
+
+# Arranged the other topics priority wise
+sentence rearrangement
+tenses
+preposition
+pronoun
+facts inference & judgements
+direct & indirct speech
+modals
+active & passive voice
+conjunction
+determiner 
+verb adverb
+adjectives
+sentence construction
