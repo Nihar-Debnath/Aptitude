@@ -18,7 +18,6 @@ There are 3 numbers.
 
 So average = 60 ÷ 3 = **20**
 
-genui{"descriptive_statistics_sampling_learning_block":{"type_id":"ARITHMETIC_MEAN","locale_override":"en-IN"}}
 
 ### ⭐ The main formula
 

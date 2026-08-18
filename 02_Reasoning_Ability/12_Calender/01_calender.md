@@ -1,4 +1,3 @@
-Yep bro 🔥 **Calendar** in logical reasoning is actually a very scoring chapter once you understand the basic idea. Don't start memorizing random formulas yet.
 
 ## 1. What does Calendar reasoning ask?
 
@@ -26,9 +25,9 @@ After **7 days**, you're back to the same day.
 
 So:
 
-[
+\[
 7 \text{ days}=0\text{ change in day}
-]
+\]
 
 For example:
 
@@ -44,9 +43,9 @@ Why?
 
 Because:
 
-[
+\[
 10\div7=1\text{ remainder }3
-]
+\]
 
 So we only care about the **remainder**.
 
@@ -58,23 +57,23 @@ This is the MOST important concept in calendar questions.
 
 Suppose you have:
 
-[
+\[
 10\text{ days}
-]
+\]
 
 Divide by 7:
 
-[
+\[
 10=7+3
-]
+\]
 
 The **3** is called the **odd days**.
 
 So:
 
-[
+\[
 \boxed{10\text{ days}=3\text{ odd days}}
-]
+\]
 
 Similarly:
 
@@ -117,53 +116,53 @@ And we convert these into odd days.
 
 ### 31-day month:
 
-[
+\[
 31\div7=4\text{ remainder }3
-]
+\]
 
 So:
 
-[
+\[
 \boxed{31\text{ days}=3\text{ odd days}}
-]
+\]
 
 ### 30-day month:
 
-[
+\[
 30\div7=4\text{ remainder }2
-]
+\]
 
 So:
 
-[
+\[
 \boxed{30\text{ days}=2\text{ odd days}}
-]
+\]
 
 ### February:
 
 Normal year:
 
-[
+\[
 28\div7=0
-]
+\]
 
 So:
 
-[
+\[
 \boxed{0\text{ odd days}}
-]
+\]
 
 Leap year:
 
-[
+\[
 29\div7=1
-]
+\]
 
 So:
 
-[
+\[
 \boxed{1\text{ odd day}}
-]
+\]
 
 ---
 

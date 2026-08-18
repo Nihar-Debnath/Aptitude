@@ -53,7 +53,7 @@ Sold at
 Profit
 
 \[
-800\times10%=80
+800\times10percent=80
 \]
 
 ---
@@ -81,7 +81,7 @@ Sold at
 Profit
 
 \[
-960\times30%=288
+960\times30percent=288
 \]
 
 ---

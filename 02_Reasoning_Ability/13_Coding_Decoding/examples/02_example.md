@@ -40,9 +40,9 @@ W = 23
 
 Now add them:
 
-[
+\[
 19+14+15+23 = 71
-]
+\]
 
 And the given code is:
 
@@ -79,19 +79,19 @@ L = 12
 
 Add:
 
-[
+\[
 23+1+12+12
-]
+\]
 
-[
+\[
 =48
-]
+\]
 
 Now multiply by 100:
 
-[
+\[
 48\times100=4800
-]
+\]
 
 # ✅ Answer: **4800 — Option C**
 
@@ -148,18 +148,18 @@ Try:
 
 For this question:
 
-[
+\[
 \boxed{A=1,\ B=2,\ldots,Z=26}
-]
+\]
 
-[
+\[
 \boxed{\text{Code}=(\text{sum of letter positions})\times100}
-]
+\]
 
 So:
 
-[
+\[
 \boxed{WALL=4800}
-]
+\]
 
 **Option C.** 🎯

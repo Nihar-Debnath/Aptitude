@@ -1,11 +1,3 @@
-![](./images/image.png)
-
-You're right. Let's go through the **entire table** carefully. I'll explain **what each point means, why it is considered strong or weak, and give an example for each**. As you requested, **I'll put the answer after the explanation**, so you can think first.
-
-> **Remember:** This table is **not a strict rulebook**. These are **common patterns** used in aptitude exams. Always check whether the argument is **relevant to the statement**.
-
----
-
 # 🟢 STRONG ARGUMENTS
 
 ---

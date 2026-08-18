@@ -1,7 +1,3 @@
-Excellent choice! **Statement & Conclusion** is one of the most common reasoning topics in placement exams. The good news is that once you understand the rules, many questions become straightforward.
-
----
-
 # What is Statement & Conclusion?
 
 You'll be given:

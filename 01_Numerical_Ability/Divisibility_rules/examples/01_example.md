@@ -86,18 +86,18 @@ In fact:
 
 \[
 50661
-\\rightarrow 5066+(1\times4)=5070
-]
+\rightarrow 5066+(1\times4)=5070
+\]
 
 \[
 5070
-\\rightarrow 507+(0\times4)=507
-]
+\rightarrow 507+(0\times4)=507
+\]
 
 \[
 507
-\\rightarrow 50+(7\times4)=78
-]
+\rightarrow 50+(7\times4)=78
+\]
 
 \[
 78\div13=6

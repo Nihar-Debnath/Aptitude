@@ -90,15 +90,15 @@ Work = Rate × Time
 
 ## Rate
 
-[
+\[
 \boxed{\text{Rate}=\frac{\text{Work}}{\text{Time}}}
-]
+\]
 
 Since work is 1,
 
-[
+\[
 Rate=\frac1{Time}
-]
+\]
 
 This is the most important formula in the chapter.
 
@@ -110,9 +110,9 @@ A finishes work in 5 days.
 
 Rate
 
-[
+\[
 =\frac15
-]
+\]
 
 Meaning
 
@@ -132,9 +132,9 @@ B takes
 
 Rate
 
-[
+\[
 =\frac1{20}
-]
+\]
 
 Meaning
 
@@ -175,9 +175,9 @@ How much work does he complete in one day?
 
 Answer
 
-[
+\[
 \frac18
-]
+\]
 
 ---
 
@@ -185,9 +185,9 @@ How much in
 
 2 days?
 
-[
+\[
 2\times\frac18=\frac14
-]
+\]
 
 ---
 
@@ -195,9 +195,9 @@ How much in
 
 6 days?
 
-[
+\[
 6\times\frac18=\frac34
-]
+\]
 
 ---
 
@@ -211,9 +211,9 @@ How many days for complete work?
 
 Just reverse.
 
-[
+\[
 9\text{ days}
-]
+\]
 
 ---
 
@@ -231,35 +231,35 @@ takes 3 days.
 
 Rates
 
-[
+\[
 A=\frac16
-]
+\]
 
-[
+\[
 B=\frac13
-]
+\]
 
 Together
 
-[
+\[
 \frac16+\frac13
-]
+\]
 
 LCM
 
 6
 
-[
+\[
 =\frac16+\frac26
-]
+\]
 
-[
+\[
 =\frac36
-]
+\]
 
-[
+\[
 =\frac12
-]
+\]
 
 Together they finish
 
@@ -269,9 +269,9 @@ per day.
 
 Complete work
 
-[
+\[
 2\text{ days}
-]
+\]
 
 ---
 
@@ -309,31 +309,31 @@ Together?
 
 Rate
 
-[
+\[
 \frac1{12}+\frac1{18}
-]
+\]
 
 LCM
 
 36
 
-[
+\[
 =\frac3{36}+\frac2{36}
-]
+\]
 
-[
+\[
 =\frac5{36}
-]
+\]
 
 Time
 
-[
+\[
 =\frac{36}5
-]
+\]
 
-[
+\[
 7.2\text{ days}
-]
+\]
 
 ---
 
@@ -389,13 +389,13 @@ Together
 
 Time
 
-[
+\[
 30/5
-]
+\]
 
-[
+\[
 6\text{ days}
-]
+\]
 
 Notice:
 
@@ -453,9 +453,9 @@ Together
 
 Time
 
-[
+\[
 60/5
-]
+\]
 
 12 days
 
@@ -479,9 +479,9 @@ Less time.
 
 Formula
 
-[
+\[
 Efficiency\propto\frac1{Time}
-]
+\]
 
 Very important.
 
@@ -503,13 +503,13 @@ Ram.
 
 How many times?
 
-[
+\[
 20:10
-]
+\]
 
-[
+\[
 2:1
-]
+\]
 
 Ram is twice as efficient.
 
@@ -633,9 +633,9 @@ fills tank
 
 Rate
 
-[
+\[
 +\frac16
-]
+\]
 
 Pipe B
 
@@ -645,19 +645,19 @@ empties
 
 Rate
 
-[
+\[
 -\frac1{12}
-]
+\]
 
 Net
 
-[
+\[
 \frac16-\frac1{12}
-]
+\]
 
-[
+\[
 =\frac1{12}
-]
+\]
 
 Tank fills
 
@@ -701,13 +701,13 @@ B
 
 Two-day work
 
-[
+\[
 \frac16+\frac13
-]
+\]
 
-[
+\[
 =\frac12
-]
+\]
 
 Every
 
@@ -789,17 +789,17 @@ Works
 
 Completed
 
-[
+\[
 5\times\frac18
 =\frac58
-]
+\]
 
 Left
 
-[
+\[
 1-\frac58
 =\frac38
-]
+\]
 
 ---
 
@@ -815,9 +815,9 @@ After
 
 Completed
 
-[
+\[
 3/10
-]
+\]
 
 Percentage
 
@@ -855,9 +855,9 @@ New efficiency
 
 New time
 
-[
+\[
 \frac{100}{125}
-]
+\]
 
 Old Time
 
@@ -875,9 +875,9 @@ If workers increase
 
 Time becomes
 
-[
+\[
 \frac1{1.5}
-]
+\]
 
 Old time
 
@@ -899,16 +899,16 @@ Now
 
 Time
 
-[
+\[
 20\times30
-==========
+\==========
 
 30\times x
 ]
 
-[
+\[
 x=20
-]
+\]
 
 ---
 
@@ -946,9 +946,9 @@ Inverse of time.
 
 Worker × Days = Constant (when efficiency is the same)
 
-[
+\[
 \boxed{\text{Workers} \times \text{Days} = \text{Constant}}
-]
+\]
 
 Example:
 
@@ -956,13 +956,13 @@ Example:
 
 How many workers are needed to finish it in 10 days?
 
-[
+\[
 20 \times 15 = x \times 10
-]
+\]
 
-[
+\[
 x = 30
-]
+\]
 
 ---
 

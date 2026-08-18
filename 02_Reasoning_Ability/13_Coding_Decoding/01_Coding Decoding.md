@@ -319,9 +319,9 @@ Therefore:
 
 This formula is extremely useful:
 
-[
+\[
 \boxed{\text{Reverse position}=27-\text{Normal position}}
-]
+\]
 
 ---
 

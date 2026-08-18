@@ -1,4 +1,4 @@
-![](./image%20copy.png)
+![](./images/image%20copy.png)
 
 These are **shortcut rules** that many aptitude teachers use to solve **Statement & Assumption** questions quickly. They are useful, but **don't treat them as 100% universal laws**. They work in most exam questions, but the safest method is still understanding the logic behind assumptions.
 

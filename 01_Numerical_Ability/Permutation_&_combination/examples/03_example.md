@@ -1,6 +1,6 @@
-!\[alt text](image-2.png)
+![alt text](./images/image-2.png)
 
-T\his one is **Combination**, not Permutation. The key word is **“committee”**.
+This one is **Combination**, not Permutation. The key word is **“committee”**.
 
 ### Question
 

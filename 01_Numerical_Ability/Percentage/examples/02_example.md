@@ -1,165 +1,142 @@
 ![](./images/3.png)
 ![](./images/4.png)
-This is **exactly** the point that confuses almost everyone at first.
 
-The answer is:
 
-> **Normally, yes.** To find the **union**, you usually need the **intersection**.
+Yep! This one is **not Time & Work**. 😄
+This is a **Sets / Venn Diagram** type of question.
 
-Because,
+And there's a very nice shortcut for it.
 
-\[
-\text{Union} = A + B - \text{Intersection}
-\]
+### Given:
 
-So if you only know:
-
-* A = 75%
-* B = 55%
-
-you **cannot** find the union.
+* **75%** answered Question 1 correctly.
+* **55%** answered Question 2 correctly.
+* **20%** answered **neither** correctly.
+* Find: **% who answered BOTH correctly**
 
 ---
 
-## Then how did we find the union here?
+## Step 1: Find how many answered at least one correctly
 
-Because the question gave us **extra information**:
+If **20% answered neither**, then everyone else answered **at least one**.
 
-> **20% answered neither question correctly.**
+So:
 
-Now think carefully.
+[
+100%-20%=80%
+]
 
-There are only **100% of students** in the class.
+Therefore:
 
-Those 100% students can be divided into **two groups**:
-
-```text
-100% Students
-│
-├── Answered at least one question
-└── Answered neither question
-```
-
-These two groups cover **everyone**.
-
-So,
-
-```text
-At least one + Neither = 100%
-```
-
-Therefore,
-
-```text
-At least one = 100% − Neither
-```
-
-```text
-= 100% − 20%
-= 80%
-```
-
-That **80% is the Union**.
+[
+\boxed{80% \text{ answered at least one correctly}}
+]
 
 ---
 
-## Where did the 100 come from?
+## Step 2: Use the formula
 
-It comes from the fact that **probabilities/percentages always add up to the whole sample**.
+Here's the important relationship:
 
-If there are 100 students:
+[
+\boxed{A+B-(A\cap B)=A\cup B}
+]
 
-* 20 students answered **neither**
-* Therefore the remaining **80 students** answered **at least one**
+In simple English:
 
-```text
-Total students = 100
+> People who got Q1 + people who got Q2 − people who got BOTH = people who got at least one.
 
-Answered at least one = 80
-Answered neither      = 20
----------------------------
-Total                 =100
-```
+Put the numbers in:
 
-If there were 1000 students instead:
+[
+75+55-\text{Both}=80
+]
 
-* 200 answered neither
-* 800 answered at least one
+[
+130-\text{Both}=80
+]
 
-The **percentage** is still:
+Therefore:
 
-```text
-80% + 20% = 100%
-```
+[
+\text{Both}=130-80
+]
 
----
+[
+\boxed{50%}
+]
 
-## So there are TWO ways to find Union
-
-### Method 1 (using Intersection)
-
-If you know the intersection:
-
-```text
-Union = A + B − Intersection
-```
-
-Example:
-
-```text
-A = 75
-B = 55
-Intersection = 50
-
-Union = 75 + 55 − 50
-      = 80
-```
+# 🎯 Answer = 50%
 
 ---
 
-### Method 2 (using Neither)
+### 🧠 But WHY do we subtract the "both"?
 
-If you know "Neither":
+This is the part you should understand.
 
-```text
-Union = 100 − Neither
-```
+Suppose there are **100 students**.
 
-Example:
+75 got Q1 right.
 
-```text
-Neither = 20
+55 got Q2 right.
 
-Union = 100 − 20
-      = 80
-```
+If you simply do:
+
+[
+75+55=130
+]
+
+That's impossible because there are only 100 students!
+
+Why did we get 130?
+
+Because the students who got **both** questions right were counted **twice**:
+
+> Once inside the 75
+> and again inside the 55.
+
+So we need to remove that duplicate counting.
+
+That's why:
+
+[
+\boxed{75+55-\text{Both}=80}
+]
+
+And we find:
+
+[
+\boxed{\text{Both}=50%}
+]
 
 ---
 
-### That's why this question works.
+### 🔥 Shortcut for these questions
 
-We **didn't** calculate the union from the intersection.
+Whenever you see:
 
-We calculated it from **Neither**.
+**A% did X**
+**B% did Y**
+**C% did neither**
 
-Then we used that union to find the intersection.
+Then:
 
-So the flow was:
+[
+\boxed{\text{Both}=A+B-(100-C)}
+]
 
-```text
-Neither
-   ↓
-Union
-   ↓
-Intersection
-```
+Here:
 
-not
+[
+75+55-(100-20)
+]
 
-```text
-Intersection
-   ↓
-Union
-```
+[
+=130-80
+]
 
-That's the key idea. The question gives you **another path** to reach the union. Once you have the union, you can use the formula to find the intersection.
+[
+\boxed{50%}
+]
+
+This is a **very common aptitude question pattern**, so definitely remember this one.

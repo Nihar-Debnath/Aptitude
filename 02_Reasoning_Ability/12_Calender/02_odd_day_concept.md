@@ -1,5 +1,3 @@
-Got you bro. This time we'll **build Calendar reasoning from the ground up**, in exactly the order you listed. No jumping ahead.
-
 # 1. Basic structure of a year
 
 A year has:
@@ -263,6 +261,7 @@ For example:
 | --------- | ---------: |
 | 1–100     |         24 |
 | 101–200   |         24 |
+| 110–1200   |         **25** |
 | 1801–1900 |         24 |
 | 1901–2000 |     **25** |
 | 2001–2100 |         24 |

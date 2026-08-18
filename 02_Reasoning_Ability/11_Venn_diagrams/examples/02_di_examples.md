@@ -1,4 +1,4 @@
-# There will one one Venn diagram, ans there will be a lot of question from same diagram
+# There will one one Venn diagram, and there will be a lot of question from same diagram
 
 ![alt text](./images/image-11.png)
 

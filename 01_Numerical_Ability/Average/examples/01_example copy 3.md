@@ -13,9 +13,9 @@ Let's call the number of remaining employees **(x)**.
 
 So total employees:
 
-[
+\[
 7+x
-]
+\]
 
 ---
 
@@ -25,17 +25,17 @@ There are 7 technicians and their average is ₹12,000.
 
 Remember:
 
-[
+\[
 \boxed{\text{Total}=\text{Average}\times\text{Number}}
-]
+\]
 
 Therefore:
 
-[
+\[
 \text{Technicians' total salary}
 =12000\times7
 =84000
-]
+\]
 
 ---
 
@@ -47,9 +47,9 @@ Their average is ₹6,000.
 
 So:
 
-[
+\[
 \text{Remaining salary}=6000x
-]
+\]
 
 ---
 
@@ -61,9 +61,9 @@ Their average is ₹8,000.
 
 Therefore:
 
-[
+\[
 \text{Total salary}=8000(7+x)
-]
+\]
 
 ---
 
@@ -71,43 +71,43 @@ Therefore:
 
 The total salary of everyone is:
 
-[
+\[
 \text{Technicians' salary}+\text{Remaining salary}
-]
+\]
 
 So:
 
-[
+\[
 84000+6000x=8000(7+x)
-]
+\]
 
 Expand:
 
-[
+\[
 84000+6000x=56000+8000x
-]
+\]
 
 Move things around:
 
-[
+\[
 84000-56000=8000x-6000x
-]
+\]
 
-[
+\[
 28000=2000x
-]
+\]
 
-[
+\[
 x=14
-]
+\]
 
 So there are **14 remaining employees**.
 
 But the question asks for **total employees**:
 
-[
+\[
 7+14=\boxed{21}
-]
+\]
 
 ### ✅ Answer: **A. 21**
 
@@ -133,39 +133,39 @@ Think of the overall average ₹8,000 as the **balance point**.
 
 Technicians are:
 
-[
+\[
 12000-8000=4000
-]
+\]
 
 **₹4,000 above** the overall average.
 
 Remaining employees are:
 
-[
+\[
 8000-6000=2000
-]
+\]
 
 **₹2,000 below** the overall average.
 
 For the average to remain ₹8,000, the "extra" from technicians must equal the "deficit" from the remaining employees:
 
-[
+\[
 7\times4000=x\times2000
-]
+\]
 
-[
+\[
 28000=2000x
-]
+\]
 
-[
+\[
 x=14
-]
+\]
 
 Then:
 
-[
+\[
 7+14=\boxed{21}
-]
+\]
 
 This is called the **alligation/weighted-average shortcut**, and it's VERY useful in aptitude exams.
 
@@ -219,17 +219,17 @@ Each technician earns an average of ₹12,000.
 
 That's:
 
-[
+\[
 12000-8000=\boxed{4000}
-]
+\]
 
 So each technician has **₹4,000 extra** compared to the overall average.
 
 There are 7 technicians:
 
-[
+\[
 7\times4000=\boxed{28000}
-]
+\]
 
 So technicians have a total of **₹28,000 extra**.
 
@@ -241,9 +241,9 @@ Their average is only ₹6,000.
 
 Compared to the overall ₹8,000:
 
-[
+\[
 8000-6000=\boxed{2000}
-]
+\]
 
 So each remaining employee has **₹2,000 less** than the overall average.
 
@@ -265,9 +265,9 @@ Each remaining employee has a ₹2,000 shortage.
 
 So:
 
-[
+\[
 \frac{28000}{2000}=14
-]
+\]
 
 Therefore there are **14 remaining employees**.
 
@@ -275,9 +275,9 @@ And technicians = 7.
 
 So total:
 
-[
+\[
 7+14=\boxed{21}
-]
+\]
 
 ---
 
@@ -300,9 +300,9 @@ For the overall average to stay at ₹8,000:
 14 employees × ₹2,000 shortage
 ```
 
-[
+\[
 7\times4000=14\times2000
-]
+\]
 
 That's it.
 
@@ -312,21 +312,23 @@ That's it.
 
 And then:
 
-[
+\[
 \boxed{\text{Number on one side}\times\text{Extra}
-==================================================
+=
 
 \text{Number on other side}\times\text{Shortage}}
-]
+\]
 
 Don't worry about memorizing it yet. **Understand this balance idea first.**
 
 
 
-\
-
-
-
+---
+---
+---
+---
+---
+---
 
 
 
@@ -348,9 +350,9 @@ Their **average salary is ₹12,000**.
 
 That means their combined salary is:
 
-[
+\[
 7\times12000=₹84,000
-]
+\]
 
 Now the organization says:
 
@@ -372,9 +374,9 @@ Suppose the target average is **₹8,000**.
 
 For every technician:
 
-[
+\[
 ₹12,000
-]
+\]
 
 is **₹4,000 more** than ₹8,000.
 
@@ -384,9 +386,9 @@ So each technician contributes:
 
 There are 7 technicians:
 
-[
+\[
 7\times4000=₹28,000
-]
+\]
 
 So technicians are giving us **₹28,000 extra** above the target.
 
@@ -396,17 +398,17 @@ Now look at a remaining employee.
 
 They average:
 
-[
+\[
 ₹6,000
-]
+\]
 
 But our target is ₹8,000.
 
 So each remaining employee is:
 
-[
+\[
 8000-6000=₹2,000
-]
+\]
 
 **short**.
 
@@ -419,17 +421,17 @@ Each remaining employee creates ₹2,000 shortage.
 
 Therefore:
 
-[
+\[
 28,000\div2,000=14
-]
+\]
 
 So there must be **14 remaining employees**.
 
 Then:
 
-[
+\[
 7+14=\boxed{21}
-]
+\]
 
 ---
 
@@ -452,9 +454,9 @@ Every technician gives **₹4,000 extra**.
 
 7 technicians give:
 
-[
+\[
 7\times4000=₹28,000\text{ extra}
-]
+\]
 
 Now:
 
@@ -471,12 +473,12 @@ Every remaining employee is ₹2,000 short.
 
 So how many ₹2,000 shortages do we need to cancel **₹28,000 extra**?
 
-[
+\[
 ₹28,000
 \div
 ₹2,000
 =14
-]
+\]
 
 That's why there are **14 remaining employees**.
 

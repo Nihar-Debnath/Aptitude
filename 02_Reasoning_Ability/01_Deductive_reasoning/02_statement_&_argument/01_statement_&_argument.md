@@ -1,7 +1,3 @@
-Absolutely. **Statement & Argument** is one of the easiest topics in deductive reasoning once you understand the logic behind it. Companies like **TCS, Cognizant, Capgemini, Accenture, Wipro, Infosys** ask these questions regularly.
-
----
-
 # What is a Statement?
 
 A **statement** is simply a sentence that presents a situation, problem, fact, or issue.

@@ -1,305 +1,3 @@
->I need to know about the grammars that uses in our real worlds like when communicating with other, in English obviously, i am actually learning some good words from the movies or series or anywhere i hears a good English words, but you know that only incorporating words in sentences doesn't make it grammatically correct, so i need to also work on my grammar tell me all about the English grammar which i need to know for evolving my English skills.
-
-That's a very good observation.
-
-A lot of English learners focus on vocabulary first ("I know many advanced words"), but then they realize native speakers don't sound natural just because they know difficult words. What makes someone sound fluent is:
-
-**Fluency = Vocabulary + Grammar + Listening + Speaking Practice**
-
-You are already collecting new words from movies and series, which is great. Now you need the grammar framework that native speakers use every day.
-
----
-
-# What Grammar Actually Is
-
-Grammar is simply the set of rules that tells us:
-
-* how words are arranged
-* how sentences are formed
-* how time is expressed
-* how ideas are connected
-
-For example:
-
-❌ "Yesterday I go market."
-
-Correct words, wrong grammar.
-
-✅ "Yesterday I went to the market."
-
----
-
-# The Most Important Grammar Topics
-
-You do **not** need to learn every grammar rule at once.
-
-Focus on these topics in order.
-
----
-
-# 1. Parts of Speech
-
-Every word belongs to a category.
-
-### Nouns
-
-Names of people, places, things.
-
-* boy
-* computer
-* city
-* happiness
-
-Example:
-
-> The boy uses a computer.
-
----
-
-### Pronouns
-
-Replace nouns.
-
-* I
-* you
-* he
-* she
-* they
-* we
-
-Example:
-
-> John is my friend.
->
-> He is my friend.
-
----
-
-### Verbs
-
-Actions or states.
-
-* run
-* eat
-* think
-* sleep
-* be
-
-Example:
-
-> I run every morning.
-
----
-
-### Adjectives
-
-Describe nouns.
-
-* big
-* smart
-* beautiful
-
-Example:
-
-> She is a smart student.
-
----
-
-### Adverbs
-
-Describe verbs, adjectives, or other adverbs.
-
-* quickly
-* slowly
-* very
-
-Example:
-
-> He runs quickly.
-
----
-
-### Prepositions
-
-Show position or relationship.
-
-* in
-* on
-* at
-* under
-* beside
-
-Example:
-
-> The book is on the table.
-
----
-
-### Conjunctions
-
-Join ideas.
-
-* and
-* but
-* because
-* although
-
-Example:
-
-> I stayed home because it was raining.
-
----
-
-# 2. Sentence Structure
-
-This is the most important topic.
-
-Most English sentences follow:
-
-**Subject + Verb + Object**
-
-Example:
-
-> I eat apples.
-
-Subject = I
-
-Verb = eat
-
-Object = apples
-
----
-
-More examples:
-
-> She likes coffee.
-
-> They play football.
-
-> We study programming.
-
----
-
-# 3. Tenses
-
-Tenses tell us **when** something happens.
-
-This is the heart of English grammar.
-
----
-
-## Present Simple
-
-Habit or fact.
-
-> I study every day.
-
-> He works in Bangalore.
-
----
-
-## Present Continuous
-
-Happening right now.
-
-> I am studying.
-
-> She is cooking.
-
----
-
-## Past Simple
-
-Finished action.
-
-> I studied yesterday.
-
-> She went home.
-
----
-
-## Future Simple
-
-Future action.
-
-> I will study tomorrow.
-
-> They will come later.
-
----
-
-These four are used constantly.
-
-Master them first.
-
----
-
-# 4. Subject-Verb Agreement
-
-Verb must match the subject.
-
-### Correct
-
-> He plays football.
-
-> She works hard.
-
-> It looks good.
-
----
-
-### Incorrect
-
-> He play football.
-
-> She work hard.
-
----
-
-Remember:
-
-For **he/she/it** in present simple:
-
-Add **s/es**
-
-> play → plays
-
-> work → works
-
-> watch → watches
-
----
-
-# 5. Articles
-
-Very important.
-
-### a
-
-General singular thing.
-
-> I saw a dog.
-
----
-
-### an
-
-Before vowel sounds.
-
-> an apple
-
-> an engineer
-
----
-
-### the
-
-Specific thing.
-
-> The dog is mine.
-
----
-
 # 6. Questions
 
 ### Using Do/Does
@@ -356,50 +54,6 @@ Native speakers use these constantly.
 
 ---
 
-# 8. Modal Verbs
-
-These make English sound natural.
-
-### Can
-
-Ability
-
-> I can swim.
-
----
-
-### Could
-
-Past ability / polite request
-
-> Could you help me?
-
----
-
-### Should
-
-Advice
-
-> You should study more.
-
----
-
-### Must
-
-Necessity
-
-> You must wear a helmet.
-
----
-
-### Might
-
-Possibility
-
-> It might rain.
-
----
-
 # 9. Conditionals
 
 Used in daily conversation.
@@ -428,21 +82,7 @@ Past regret.
 
 ---
 
-# 10. Passive Voice
-
-Very common in news and formal English.
-
-Active:
-
-> The police arrested him.
-
-Passive:
-
-> He was arrested by the police.
-
----
-
-# 11. Reported Speech
+# 11. Reported Speech (Narration)
 
 When telling someone what another person said.
 
@@ -454,27 +94,7 @@ Reported:
 
 > John said that he was busy.
 
----
 
-# 12. Relative Clauses
-
-These make sentences more advanced.
-
-Simple:
-
-> I know a man.
-
-Advanced:
-
-> I know a man who works at Google.
-
-Words:
-
-* who
-* whom
-* whose
-* which
-* that
 
 ---
 
@@ -525,81 +145,169 @@ Movies use these all the time.
 These are informal spoken English.
 
 ---
+---
+---
+---
+---
+---
+---
+---
 
-# 14. Phrasal Verbs
 
-This is where many learners struggle.
+# Phase 1: Foundation (Must Learn First)
 
-Examples:
+These are the topics you should learn **before** any aptitude English.
 
-### Give up
+## 1. Parts of Speech ⭐⭐⭐⭐⭐
 
-> Don't give up.
-
-### Look after
-
-> She looks after her brother.
-
-### Figure out
-
-> I figured it out.
-
-### Pick up
-
-> I'll pick you up.
-
-Movies are full of phrasal verbs.
+* Noun
+* Pronoun
+* Verb
+* Helping Verb (Auxiliary Verb)
+* Adjective
+* Adverb
+* Preposition
+* Conjunction
+* Interjection
 
 ---
 
-# 15. The Grammar That Gives the Biggest Improvement
+## 2. Sentence Basics
 
-If you learn only these topics well, your English will improve dramatically:
+* Subject
+* Predicate
+* Object
+* Complement
 
-1. Sentence structure (Subject + Verb + Object)
-2. Present, Past, Future tenses
-3. Subject-verb agreement
-4. Articles (a, an, the)
-5. Questions and negatives
-6. Modal verbs
-7. Phrasal verbs
-8. Conditionals
+---
 
-These eight topics probably cover **80–90% of everyday English communication**.
+## 4. Phrase
 
-# A Practical Study Plan for You
+Learn:
 
-Since you're learning from movies and series:
+* Noun Phrase
+* Verb Phrase
+* Adjective Phrase
+* Adverb Phrase
+* Prepositional Phrase
 
-### Daily (20–30 minutes)
+---
 
-1. Watch 5–10 minutes of English content.
-2. Write down:
+## 5. Clause
 
-   * new words
-   * interesting phrases
-   * unusual grammar patterns
-3. Create 3–5 sentences using them.
-4. Speak those sentences aloud.
+Learn:
 
-Example:
+* Independent Clause
+* Dependent Clause
+* Noun Clause
+* Adjective Clause
+* Adverb Clause
 
-Movie sentence:
+---
 
-> "I should've called you."
+## 6. Sentence
 
-Grammar learned:
+* Simple Sentence
+* Compound Sentence
+* Complex Sentence
+* Compound-Complex Sentence
 
-> should have → should've
 
-Your sentences:
 
-> I should've studied yesterday.
+---
 
-> I should've gone earlier.
+## 8. Subject-Verb Relationship
 
-> I should've listened to my teacher.
+* Singular & Plural
+* First/Second/Third Person
 
-This method teaches vocabulary and grammar together, which is much more effective than memorizing rules alone.
+---
 
-Also, I noticed from your message that your vocabulary is already ahead of your grammar. If you'd like, I can create a **complete English Grammar Roadmap (Beginner → Intermediate → Advanced)** with lessons arranged in the exact order you should learn them over the next 2–3 months.
+# Phase 2: Aptitude Grammar
+
+After finishing the above, start these.
+
+1. Subject-Verb Agreement
+2. Articles (A, An, The)
+3. Tenses (for error detection)
+4. Pronoun Errors
+5. Adjective & Adverb Errors
+6. Preposition Errors
+7. Conjunction Errors
+8. Parallelism
+9. Modifiers
+10. Repetition Errors
+11. Redundancy
+12. Active & Passive Voice (basic)
+13. Direct & Indirect Speech (basic)
+14. Conditional Sentences
+15. Comparison Errors
+16. Question Tags
+17. Sequence of Tenses
+18. Error Detection
+19. Sentence Improvement
+20. Sentence Rearrangement
+
+---
+
+# Phase 3: Vocabulary
+
+* Synonyms
+* Antonyms
+* One-word Substitution
+* Idioms & Phrases
+* Phrasal Verbs
+* Homophones
+* Commonly Confused Words
+* Prefixes & Suffixes
+* Root Words
+
+---
+
+# Phase 4: Reading Skills
+
+* Reading Comprehension
+* Cloze Test
+* Para Jumbles
+* Fill in the Blanks
+* Sentence Completion
+
+---
+
+# If your target is TCS, Cognizant, Accenture, Capgemini, Infosys
+
+This is the order I'd recommend:
+
+### Foundation
+
+1. Parts of Speech
+2. Subject, Predicate, Object
+3. Verbs & Helping Verbs
+4. Phrase
+5. Clause
+6. Sentence Types
+7. Tenses (Basics)
+
+⬇
+
+### Aptitude Grammar
+
+8. Subject-Verb Agreement
+9. Articles
+10. Pronouns
+11. Adjectives & Adverbs
+12. Prepositions
+13. Conjunctions
+14. Parallelism
+15. Modifiers
+16. Repetition & Redundancy
+17. Error Detection
+
+⬇
+
+### Verbal Ability
+
+18. Vocabulary
+19. Cloze Test
+20. Reading Comprehension
+21. Para Jumbles

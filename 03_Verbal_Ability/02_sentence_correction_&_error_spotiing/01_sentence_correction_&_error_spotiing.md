@@ -1,9 +1,3 @@
-Sentence Correction and Error Correction are two of the most common topics in **Verbal Ability** for companies like **TCS, Cognizant, Capgemini, Accenture, Infosys, and Wipro**.
-
-Although they sound similar, they test different skills.
-
----
-
 # 1. Sentence Correction
 
 ### Meaning

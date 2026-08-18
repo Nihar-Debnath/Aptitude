@@ -50,9 +50,9 @@ Combination would be used if the question were:
 
 Then:
 
-[
+\[
 {}^{10}C_4
-]
+\]
 
 because we only care **which 4 people** were chosen.
 
@@ -73,49 +73,49 @@ So **order matters → Permutation.**
 
 We have:
 
-[
+\[
 n=10
-]
+\]
 
 people and
 
-[
+\[
 r=4
-]
+\]
 
 chairs.
 
 So:
 
-[
+\[
 {}^{10}P_4
-]
+\]
 
 Using:
 
-[
+\[
 {}^nP_r=n(n-1)(n-2)\cdots
-]
+\]
 
 Take **4 terms**:
 
-[
+\[
 10\times9\times8\times7
-]
+\]
 
 Calculate:
 
-[
+\[
 10\times9=90
-]
+\]
 
-[
+\[
 8\times7=56
-]
+\]
 
-[
+\[
 90\times56=\boxed{5040}
-]
+\]
 
 ### ✅ Answer: **A) 5040**
 
@@ -148,13 +148,13 @@ Now **7 choices** remain.
 
 Therefore:
 
-[
+\[
 10\times9\times8\times7
-]
+\]
 
-[
+\[
 =\boxed{5040}
-]
+\]
 
 ---
 
@@ -178,14 +178,14 @@ Here:
 
 Therefore:
 
-[
+\[
 \boxed{{}^{10}P_4=5040}
-]
+\]
 
 And notice this connects directly to what we learned earlier:
 
-[
+\[
 \boxed{{}^{10}P_4={}^{10}C_4\times4!}
-]
+\]
 
 **Choose 4 people first, then arrange those 4 people in 4 chairs.** That's exactly why permutation = combination × arrangement.

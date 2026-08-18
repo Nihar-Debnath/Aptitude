@@ -10,51 +10,51 @@ For **11**, do:
 
 **Step 1:** Separate the last digit.
 
-[
+\[
 28\ |\ 6
-]
+\]
 
 Multiply last digit by **1**:
 
-[
+\[
 6\times1=6
-]
+\]
 
 Subtract:
 
-[
+\[
 28-6=22
-]
+\]
 
 ---
 
 Now repeat with **22**:
 
-[
+\[
 2\ |\ 2
-]
+\]
 
-[
+\[
 2\times1=2
-]
+\]
 
 Subtract:
 
-[
+\[
 2-2=0
-]
+\]
 
 Since **0 is divisible by 11**, ✅
 
-[
+\[
 \boxed{286\text{ is divisible by }11}
-]
+\]
 
 And indeed:
 
-[
+\[
 286\div11=26
-]
+\]
 
 ### 🔥 So the method you're learning is:
 

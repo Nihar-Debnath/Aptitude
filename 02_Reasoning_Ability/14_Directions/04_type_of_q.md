@@ -50,9 +50,9 @@ Draw:
 
 Use Pythagoras:
 
-[
+\[
 \sqrt{3^2+4^2}=5
-]
+\]
 
 ✅ Answer: **5 m**
 
@@ -72,9 +72,9 @@ We already know:
 
 Distance:
 
-[
+\[
 \sqrt{3^2+4^2}=5m
-]
+\]
 
 Direction:
 
