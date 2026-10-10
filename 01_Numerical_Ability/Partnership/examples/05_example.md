@@ -114,6 +114,8 @@ We can multiply **all three** by 56.
 
 Why 56?
 
+means lcm
+
 Because 56 is divisible by 14, 8 and 7.
 
 So:
@@ -201,98 +203,3 @@ giving:
 **Going BACKWARD:**
 
 **Profit ÷ Time → Investment**
-
-
-
-
----
----
----
----
-
-
-Ahh, you're asking **how I found 56**. Good question — you shouldn't just magically pick 56. 😄
-
-We had:
-
-\[
-\frac5{14}:\frac78:\frac87
-\]
-
-The denominators are:
-
-\[
-14,\ 8,\ 7
-\]
-
-We need a number that **all three denominators can divide exactly**.
-
-That's called the **LCM (Least Common Multiple)**.
-
-### Find LCM of 14, 8, 7
-
-Let's list multiples:
-
-**14:**
-
-\[
-14,\ 28,\ 42,\ \boxed{56},\ 70...
-\]
-
-**8:**
-
-\[
-8,\ 16,\ 24,\ 32,\ 40,\ 48,\ \boxed{56}...
-\]
-
-**7:**
-
-\[
-7,\ 14,\ 21,\ 28,\ 35,\ 42,\ 49,\ \boxed{56}...
-\]
-
-The **first number appearing in all three lists is 56**.
-
-Therefore:
-
-\[
-\boxed{LCM(14,8,7)=56}
-\]
-
-That's why we multiply the whole ratio by 56:
-
-\[
-\frac5{14}\times56=20
-\]
-
-\[
-\frac78\times56=49
-\]
-
-\[
-\frac87\times56=64
-\]
-
-So:
-
-\[
-\boxed{20:49:64}
-\]
-
-### 🔥 For your aptitude preparation
-
-Whenever you get something like:
-
-\[
-\frac{a}{x}:\frac{b}{y}:\frac{c}{z}
-\]
-
-**Find the LCM of the denominators** (x,y,z), then multiply every term by that LCM.
-
-Here:
-
-\[
-14,8,7 \rightarrow \boxed{56}
-\]
-
-That's the trick.

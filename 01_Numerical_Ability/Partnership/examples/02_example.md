@@ -13,9 +13,9 @@ Let's go slowly. This type is very important for exams.
 * Business runs for **3 years**
 * Find profit ratio:
 
-[
+\[
 Aman:Rakhi:Sagar
-]
+\]
 
 ---
 
@@ -25,9 +25,9 @@ The business runs for **3 years**.
 
 Convert 3 years to months:
 
-[
+\[
 3\times12=36\text{ months}
-]
+\]
 
 So the business runs for **36 months**.
 
@@ -39,9 +39,9 @@ Aman starts at the beginning.
 
 So his money stays for the **entire 36 months**.
 
-[
+\[
 \boxed{36\text{ months}}
-]
+\]
 
 ---
 
@@ -53,13 +53,13 @@ So she doesn't get 36 months.
 
 She gets:
 
-[
+\[
 36-6=30\text{ months}
-]
+\]
 
-[
+\[
 \boxed{30\text{ months}}
-]
+\]
 
 ---
 
@@ -71,19 +71,19 @@ Rakhi joined at month 6.
 
 Sagar joins at:
 
-[
+\[
 6+6=12\text{ months}
-]
+\]
 
 So Sagar's money stays for:
 
-[
+\[
 36-12=24\text{ months}
-]
+\]
 
-[
+\[
 \boxed{24\text{ months}}
-]
+\]
 
 ---
 
@@ -97,9 +97,9 @@ So Sagar's money stays for:
 
 Now we use:
 
-[
+\[
 \boxed{\text{Profit Ratio}=\text{Investment}\times\text{Time}}
-]
+\]
 
 ---
 
@@ -107,43 +107,43 @@ Now we use:
 
 ### Aman
 
-[
+\[
 70,000\times36
-]
+\]
 
-[
+\[
 =2,520,000
-]
+\]
 
 ### Rakhi
 
-[
+\[
 1,05,000\times30
-]
+\]
 
-[
+\[
 =3,150,000
-]
+\]
 
 ### Sagar
 
-[
+\[
 1,40,000\times24
-]
+\]
 
-[
+\[
 =3,360,000
-]
+\]
 
 So:
 
-[
+\[
 Aman:Rakhi:Sagar
-]
+\]
 
-[
+\[
 =2,520,000:3,150,000:3,360,000
-]
+\]
 
 ---
 
@@ -151,35 +151,35 @@ Aman:Rakhi:Sagar
 
 We can remove the common zeros:
 
-[
+\[
 252:315:336
-]
+\]
 
 Now divide by **21**:
 
-[
+\[
 252\div21=12
-]
+\]
 
-[
+\[
 315\div21=15
-]
+\]
 
-[
+\[
 336\div21=16
-]
+\]
 
 Therefore:
 
-[
+\[
 \boxed{12:15:16}
-]
+\]
 
 # 🎯 Final Answer
 
-[
+\[
 \boxed{\text{Aman : Rakhi : Sagar = 12 : 15 : 16}}
-]
+\]
 
 ---
 
@@ -209,9 +209,9 @@ So we're basically asking:
 
 That's why:
 
-[
+\[
 \boxed{Investment\times Time}
-]
+\]
 
 determines their profit share.
 
@@ -240,9 +240,9 @@ Then:
 
 Then:
 
-[
+\[
 \boxed{Investment\times Time}
-]
+\]
 
 for each person.
 
@@ -279,9 +279,9 @@ That's it. ❤️
 
 We had:
 
-[
+\[
 252:315:336
-]
+\]
 
 We need to simplify this ratio. That means we need to find a number that **divides all three numbers**.
 
@@ -295,85 +295,85 @@ Look at:
 
 We can divide all three by **3**:
 
-[
+\[
 252\div3=84
-]
+\]
 
-[
+\[
 315\div3=105
-]
+\]
 
-[
+\[
 336\div3=112
-]
+\]
 
 So:
 
-[
+\[
 252:315:336 = 84:105:112
-]
+\]
 
 Again, all three are divisible by **7**:
 
-[
+\[
 84\div7=12
-]
+\]
 
-[
+\[
 105\div7=15
-]
+\]
 
-[
+\[
 112\div7=16
-]
+\]
 
 So:
 
-[
+\[
 \boxed{12:15:16}
-]
+\]
 
 ### Where did 21 come from?
 
 Because:
 
-[
+\[
 3\times7=21
-]
+\]
 
 So dividing directly by 21:
 
-[
+\[
 252\div21=12
-]
+\]
 
-[
+\[
 315\div21=15
-]
+\]
 
-[
+\[
 336\div21=16
-]
+\]
 
 But **you absolutely don't need to magically know 21**.
 
 For your level right now, I recommend doing:
 
-[
+\[
 252:315:336
-]
+\]
 
 **÷3 first**
 
-[
+\[
 84:105:112
-]
+\]
 
 **÷7**
 
-[
+\[
 \boxed{12:15:16}
-]
+\]
 
 That's much easier to understand.
 

@@ -1,4 +1,5 @@
-Absolutely! 🔥 **Average** is a very important and usually easy topic in Numerical Ability. Once you understand the core idea, most questions become formula-based.
+# There is nothing on handwritten notes
+
 
 # 📊 Average — Numerical Ability
 

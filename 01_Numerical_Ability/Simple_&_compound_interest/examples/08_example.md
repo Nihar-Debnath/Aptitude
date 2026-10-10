@@ -33,7 +33,10 @@ Half-yearly means **2 times per year**.
 So divide the annual rate by 2:
 
 \[
-12\div2=\boxed{6%}
+12\div2
+\]
+\[
+=6
 \]
 
 Therefore, **each 6-month period has 6% interest**.

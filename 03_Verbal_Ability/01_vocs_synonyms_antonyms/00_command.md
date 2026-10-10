@@ -1,4 +1,4 @@
- meaning
+meaning
 And how it uses
 with synonnyms an antonyns
 and while you give synonyms and antonyms then side by side add the inline explanation

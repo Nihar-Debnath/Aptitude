@@ -1,10 +1,15 @@
-dormitory
+A dormitory is a shared sleeping room or building that houses multiple people. It usually features multiple beds, bunk beds, or shared spaces, and is common in schools, universities, military bases, and budget travel hubs.
 
-fumitory
+Fumitory is a wild, delicate green plant with small pink or white flowers. It belongs to the poppy family. Its name comes from the Latin phrase fumus terrae, which means "smoke of the earth", because its smoky, blue-gray leaves look like smoke rising from the soil.
 
-Citatory
+What is a citation? Citations are a way of giving credit when certain material in your work came from another source. It also gives your readers the information necessary to find that source again-- it provides an important roadmap to your research process.
 
-Monitary
+Citatory is a rare adjective meaning relating to a citation, a formal reference, or a legal summons to appear in court. As defined by the Merriam-Webster Dictionary, it describes something that has the power or form of a legal notice or a documented reference.
+
+monetary
+‍ˈमनिट्‌रि
+adjective
+connected with money
 
 catastrophe - a sudden disaster that causes great suffering or damage
 
@@ -29,7 +34,7 @@ acoustics - the qualities of a room, etc. that make it good or bad for you to he
 
 Oratory has two distinct meanings: the art of elegant and persuasive public speaking, or a small chapel or room set aside for private prayer
 
-persuade - to make somebody do something by giving them good reasons
+to **persuade**: to convince, to influence, to induce verb. UK US. He's still trying to persuade me to buy the car, but however much he tries to convince me, it's my decision in the end. persuasive: convincing, influential, compelling adjective.
 
 
 A **dilettante** is a person who shows a superficial or casual interest in a branch of knowledge or the arts, but lacks real commitment, deep understanding, or professional expertise

@@ -1,5 +1,3 @@
-Exactly! After **Number System** and **Arithmetic**, the next major chapter in Numerical Ability is:
-
 # Data Interpretation (DI)
 
 This is one of the **highest-scoring** topics in placement exams because it doesn't require advanced mathematics. It mainly tests:

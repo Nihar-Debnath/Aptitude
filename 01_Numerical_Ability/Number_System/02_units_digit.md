@@ -8,9 +8,9 @@ And this is actually a very easy topic once you understand the trick.
 The question asks:
 
 > What is the unit digit of
-> [
+> \[
 > 213\times212\times347\times468\times778
-> ]
+> \]
 
 ---
 
@@ -36,15 +36,15 @@ When multiplying numbers, if you only need the unit digit:
 
 Look at our question:
 
-[
+\[
 213\times212\times347\times468\times778
-]
+\]
 
 Take only the last digit of each:
 
-[
+\[
 \boxed{3\times2\times7\times8\times8}
-]
+\]
 
 That's all!
 
@@ -56,51 +56,51 @@ You don't need to multiply those huge numbers.
 
 Start:
 
-[
+\[
 3\times2=6
-]
+\]
 
 Then:
 
-[
+\[
 6\times7=42
-]
+\]
 
 We only care about the **unit digit**:
 
-[
+\[
 \boxed{2}
-]
+\]
 
 Continue:
 
-[
+\[
 2\times8=16
-]
+\]
 
 Unit digit:
 
-[
+\[
 \boxed{6}
-]
+\]
 
 Then:
 
-[
+\[
 6\times8=48
-]
+\]
 
 Unit digit:
 
-[
+\[
 \boxed{8}
-]
+\]
 
 Therefore:
 
-[
+\[
 \boxed{8}
-]
+\]
 
 ### ✅ Answer: **D) 8**
 
@@ -112,45 +112,45 @@ This is the important concept.
 
 Suppose:
 
-[
+\[
 213\times212
-]
+\]
 
 Break them:
 
-[
+\[
 213=210+3
-]
+\]
 
-[
+\[
 212=210+2
-]
+\]
 
 When you multiply:
 
-[
+\[
 (210+3)(210+2)
-]
+\]
 
 Everything involving 210 will end in **0**.
 
 The only part that determines the final unit digit is:
 
-[
+\[
 3\times2=6
-]
+\]
 
 So:
 
-[
+\[
 213\times212
-]
+\]
 
 must end in:
 
-[
+\[
 \boxed{6}
-]
+\]
 
 That's why we only need the last digits.
 
@@ -160,21 +160,21 @@ That's why we only need the last digits.
 
 Suppose:
 
-[
+\[
 1234\times5678
-]
+\]
 
 Unit digits:
 
-[
+\[
 4\times8=32
-]
+\]
 
 Therefore unit digit:
 
-[
+\[
 \boxed{2}
-]
+\]
 
 No need to calculate (1234\times5678).
 
@@ -184,39 +184,39 @@ No need to calculate (1234\times5678).
 
 Example:
 
-[
+\[
 123\times456\times789\times234\times567
-]
+\]
 
 Take last digits:
 
-[
+\[
 3\times6\times9\times4\times7
-]
+\]
 
 Now work step by step, keeping only the last digit:
 
-[
+\[
 3\times6=18\rightarrow8
-]
+\]
 
-[
+\[
 8\times9=72\rightarrow2
-]
+\]
 
-[
+\[
 2\times4=8
-]
+\]
 
-[
+\[
 8\times7=56\rightarrow6
-]
+\]
 
 Answer:
 
-[
+\[
 \boxed{6}
-]
+\]
 
 ---
 
@@ -228,9 +228,9 @@ You'll also get questions like:
 
 You obviously can't calculate:
 
-[
+\[
 7\times7\times7\times\cdots
-]
+\]
 
 123 times.
 
@@ -238,27 +238,27 @@ Here we use **unit digit cycles**.
 
 For 7:
 
-[
+\[
 7^1=7
-]
+\]
 
-[
+\[
 7^2=49\rightarrow9
-]
+\]
 
-[
+\[
 7^3=343\rightarrow3
-]
+\]
 
-[
+\[
 7^4=2401\rightarrow1
-]
+\]
 
 Then the pattern repeats:
 
-[
+\[
 \boxed{7,9,3,1}
-]
+\]
 
 Cycle length = 4.
 
@@ -266,21 +266,21 @@ So for (7^{123}):
 
 Divide exponent by 4:
 
-[
+\[
 123\div4
-]
+\]
 
 remainder:
 
-[
+\[
 3
-]
+\]
 
 So take the **3rd number in the cycle**:
 
-[
+\[
 \boxed{3}
-]
+\]
 
 ---
 
@@ -290,15 +290,15 @@ So take the **3rd number in the cycle**:
 
 Example:
 
-[
+\[
 213\times212\times347
-]
+\]
 
 Just take:
 
-[
+\[
 3\times2\times7
-]
+\]
 
 ---
 
@@ -306,9 +306,9 @@ Just take:
 
 Example:
 
-[
+\[
 7^{123}
-]
+\]
 
 Find the **unit-digit cycle** and use the remainder of the exponent.
 
@@ -334,9 +334,9 @@ Since you're preparing Numerical Ability, I'd learn Unit Digit in this order:
 
 For example:
 
-[
+\[
 3^{123}\times7^{456}\times9^{789}
-]
+\]
 
 ↓
 

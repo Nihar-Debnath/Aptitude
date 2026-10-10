@@ -1,4 +1,4 @@
-![alt text](./images/image-1.png)
+![alt text](image-1.png)
 
 
 This is actually one of the **most misunderstood grammar rules** because many teachers teach only:

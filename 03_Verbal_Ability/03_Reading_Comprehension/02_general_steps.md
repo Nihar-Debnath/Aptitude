@@ -1,9 +1,3 @@
-These are a common strategy for solving **Reading Comprehension (RC)** questions quickly, especially in aptitude tests and placement exams like **TCS, Cognizant, Capgemini, Accenture**, etc.
-
-Let's break them down.
-
----
-
 # Step 1: Skim the Passage
 
 **Skimming** means **reading quickly to understand the overall idea**, not every single word.

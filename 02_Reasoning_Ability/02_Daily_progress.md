@@ -5,11 +5,11 @@
 ### Reasoning Ability
 - **Learning Source:** https://www.youtube.com/watch?v=sWJfscVkhLI
 - **Current Timestamp:** `4:58:39 - 5:55:43` paused the syllogism (confusing topic)
-- **Next Timestamp:** `One Shot Done`
+- `One Shot Done - except syllogism`
 
 ---
 
-# The mistake that i am doing is not properly reading the questions properly
+# The mistake that i am doing is not properly reading the questions
 
 ---
 
@@ -17,7 +17,7 @@
 
 [ day-1
 
-1. **Chapter:** Letter & Number series 12.8-
+1. **Chapter:** Letter & Number series 12.8
 
    * **PYQ:** `54 solved out of 87 - 15 wrong`
    * **Last Completed Practice Question:** `0`
@@ -43,11 +43,11 @@
 
 4. **Chapter:** Visual Reasoning 9.3 - Spatial Reasoning-
 
-   * **PYQ:** `16 solved out of 54 - 3 wrong`
+   * **PYQ:** `41 solved out of 54 - 6 wrong`
    * **Last Completed Practice Question:** `0`
 5. **Chapter:** Blood Relation 7.8-
 
-   * **PYQ:** `18 solved out of 52 - 4 wrong`
+   * **PYQ:** `34 solved out of 52 - 7 wrong`
    * **Last Completed Practice Question:** `0`
 
 6. **Chapter:** Deductive and Inductive Reasoning 10.3-
@@ -100,12 +100,12 @@
 
 12. **Chapter:** Data Sufficiency 3.2 - 10 mins
 
-    * **PYQ:** `13 solved out of 17 - 4 wrong`
+    * **PYQ:** `17 solved out of 17 - 8 wrong`
     * **Last Completed Practice Question:** `0`
 13. **Chapter:** Calender 2.6 - 30 mins
 
-    * **PYQ:** `0`
-    * **Last Completed Practice Question:** `0`
+    * **PYQ:** `8 did, out of 17 - 0 wrong`
+    * **The thing is there is a few pyqs, but its a scoring topic, bcs is easy, spend the time on folloing concept and examples**
 
 ]
 
@@ -154,7 +154,7 @@
     * **Last Completed Practice Question:** `0`
 15. **Chapter:** Analytical Reasoning 2.2 (5 min)
 
-    * **PYQ:** `10 solved out of 10 - all wrong because of some mix figures`
+    * **PYQ:** `10 solved out of 10 - all wrong because of some jibrish figures`
     * **Last Completed Practice Question:** `0`
 
 ]

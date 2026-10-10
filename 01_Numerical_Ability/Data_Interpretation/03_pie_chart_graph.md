@@ -52,15 +52,15 @@ Remember these important formulas:
 
 So,
 
-[
+\[
 \text{Value}=\frac{\text{Angle}}{360}\times\text{Total}
-]
+\]
 
 or
 
-[
+\[
 \text{Value}=\frac{\text{Percentage}}{100}\times\text{Total}
-]
+\]
 
 ---
 

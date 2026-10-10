@@ -1,6 +1,3 @@
->The length of a train is 170 metres and its speed is 63 km/hr. The train crosses a bridge in 30 seconds. Find the length of the bridge.
-
-
 
 
 Yes. This is a **Time, Speed and Distance** problem, but the actual concept being tested here is mainly **ratio of speeds**.

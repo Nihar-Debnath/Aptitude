@@ -25,9 +25,9 @@ Now the examiner may ask:
 
 Let's calculate quickly:
 
-* A: (\frac{30}{120}\times100 = 25%)
-* B: (\frac{40}{100}\times100 = 40%)
-* C: (\frac{20}{160}\times100 = 12.5%)
+* A: \(\frac{30}{120}\times100 = 25%\)
+* B: \(\frac{40}{100}\times100 = 40%\)
+* C: \(\frac{20}{160}\times100 = 12.5%\)
 * D: Decrease
 
 **Answer:** Company B

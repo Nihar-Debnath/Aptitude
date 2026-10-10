@@ -13,19 +13,22 @@
 [ day-1
 
 1. **Chapter:** Speed, Time & Distance (8.2)
-   * **PYQ:** `13 solved out of 82 - 3 wrong`
+   * **PYQ:** `24 solved out of 82 - 6 wrong`
    * **Last Completed Practice Question:** `0`
 2. **Chapter:** Algebra (5)
-   * **PYQ:** `8 solved out of 52 - 0 wrong`
+   * **PYQ:** `13 solved out of 52 - 2 wrong`
    * **Last Completed Practice Question:** `0`
 3. **Chapter:** Number System (7.5)
-   * **PYQ:** `0`
+   * **PYQ:** `14 solved out of 75 - 3 wrong`
    * **Last Completed Practice Question:** `0`
 
 ]
 
 [ day-2
 
+18. **Chapter:** Data Interpretation (2.3)
+    * **PYQ:** `11 did out of 23 - 4 wrong`
+    * **Last Completed Practice Question:** `0`
 
 5. **Chapter:** Permutation & Combination (6.6)
    * **PYQ:** `5 solved out of 66 - all wrong`
@@ -39,13 +42,13 @@
 [ day-3
 
 7. **Chapter:** Sequence & Series (6.1)
-   * **PYQ:** `24 solved out of 61 - 8 wrong`
+   * **PYQ:** `32 solved out of 61 - 11 wrong`
    * **Last Completed Practice Question:** `0`
 8. **Chapter:** Percentage (5.6)
-   * **PYQ:** `24 question solved out of 53 - 9 wrong`
+   * **PYQ:** `28 question solved out of 53 - 12 wrong`
    * **Last Completed Practice Question:** `0`
 9. **Chapter:** Average (4.8)
-   * **PYQ:** `20 solved out of 50 - 6 wrong`
+   * **PYQ:** `31 solved out of 50 - 7 wrong`
    * **Last Completed Practice Question:** `0`
 
 ]
@@ -55,10 +58,10 @@
 [ day-1
 
 10. **Chapter:** Arithmetic (4.3)
-    * **PYQ:** `0`
+    * **PYQ:** `10 solved out of 41 - 2 wrong`
     * **Last Completed Practice Question:** `0`
 11. **Chapter:** Ratio & Proportion (4)
-    * **PYQ:** `0`
+    * **PYQ:** `11 solved out of 40 - 1 wrong`
     * **Last Completed Practice Question:** `0`
 
 ]
@@ -92,7 +95,7 @@
 [ day-1
 
 16. **Chapter:** LCM & HCF (2.7)
-    * **PYQ:** `0`
+    * **PYQ:** `6 solved out of 26 - 1 wrong`
     * **Last Completed Practice Question:** `0`
 17. **Chapter:** Simple & Compound Interest (2.3)
     * **PYQ:** `0`
@@ -102,7 +105,8 @@
 
 [ day-2
 
-18. **Chapter:** Data Interpretation (2.3)
+
+21. **Chapter:** Power & Exponents (0.9)
     * **PYQ:** `0`
     * **Last Completed Practice Question:** `0`
 19. **Chapter:** Partnership (1.9)
@@ -114,9 +118,6 @@
 [ day-3
 
 20. **Chapter:** Statistics (1.1)
-    * **PYQ:** `0`
-    * **Last Completed Practice Question:** `0`
-21. **Chapter:** Power & Exponents (0.9)
     * **PYQ:** `0`
     * **Last Completed Practice Question:** `0`
 22. **Chapter:** Mental Ability (5.4)

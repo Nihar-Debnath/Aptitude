@@ -20,6 +20,122 @@
 
 ![alt text](image-3.png)
 
-- This property is derived from both property 1 and 2
+### What is it?
 
-- we can clearly see that same things is multiplied in numerator and denominator, so if same thing multiplies with ratios the answer will be same, as we know it from property 1
+If two ratios are equal, you can **multiply or divide both parts by the same number**, and the ratio remains equal.
+
+For example:
+
+\[
+\frac{2}{3}=\frac{4}{6}
+\]
+
+Why?
+
+We multiplied both numbers by **2**:
+
+\[
+\frac{2\times2}{3\times2}=\frac{4}{6}
+\]
+
+So:
+
+\[
+\boxed{2:3=4:6}
+\]
+
+---
+
+### Think of it visually
+
+Suppose there are:
+
+```text
+🍎 🍎       → 2 apples
+🍊 🍊 🍊    → 3 oranges
+```
+
+Ratio:
+
+\[
+2:3
+\]
+
+Now double everything:
+
+```text
+🍎 🍎 🍎 🍎       → 4 apples
+🍊 🍊 🍊 🍊 🍊 🍊  → 6 oranges
+```
+
+Ratio:
+
+\[
+4:6
+\]
+
+The **actual quantities changed**, but the **relationship stayed exactly the same**.
+
+So:
+
+\[
+\boxed{2:3=4:6}
+\]
+
+---
+
+### The rule
+
+If:
+
+\[
+a:b=c:d
+\]
+
+then you can multiply both sides of either ratio by the same number:
+
+\[
+ka:kb
+\]
+
+and it is still equivalent.
+
+For example:
+
+\[
+3:5
+\]
+
+Multiply both by 4:
+
+\[
+12:20
+\]
+
+Therefore:
+
+\[
+\boxed{3:5=12:20}
+\]
+
+### ⚠️ One important thing
+
+You must multiply/divide **both parts by the same number**.
+
+Correct:
+
+\[
+3:5 \rightarrow 6:10
+\]
+
+❌ Wrong:
+
+\[
+3:5 \rightarrow 6:5
+\]
+
+because only one side was changed.
+
+**In one sentence:**
+
+> **Equivalent ratio property = multiply or divide both terms of a ratio by the same non-zero number, and the ratio doesn't change.**

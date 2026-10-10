@@ -2574,3 +2574,120 @@ So:
 > **English is taught by the teacher.**
 
 Once you can identify **Subject + Verb + Object + Tense**, the passive conversion is mostly just applying the correct formula.
+
+
+
+
+
+
+
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes — **Future Continuous exists in active voice**, but **Future Continuous Passive is generally not used** in standard English.
+
+This is an important exception to remember.
+
+### 1. Future Continuous — Active ✅
+
+**Structure:**
+
+> Subject + will be + V-ing
+
+Examples:
+
+> I **will be studying** at 8 PM tomorrow.
+> She **will be working** tomorrow morning.
+> They **will be playing** cricket at 5 PM.
+
+Here, the subject is **doing** the action.
+
+---
+
+### 2. Future Continuous — Passive ❌ / Normally avoided
+
+Theoretically, you could form:
+
+> will be being + V3
+
+For example:
+
+> The house **will be being built** tomorrow.
+
+Grammatically, this construction can exist, but it sounds **extremely awkward and unnatural**. Native speakers normally avoid it.
+
+Instead, they use a different construction:
+
+> The house **will be under construction** tomorrow.
+
+or
+
+> The house **will be built** tomorrow.
+
+So in practical grammar/exam purposes:
+
+| Tense                     | Active | Passive              |
+| ------------------------- | ------ | -------------------- |
+| Present Simple            | ✅      | ✅                    |
+| Present Continuous        | ✅      | ✅                    |
+| Present Perfect           | ✅      | ✅                    |
+| Past Simple               | ✅      | ✅                    |
+| Past Continuous           | ✅      | ✅                    |
+| Past Perfect              | ✅      | ✅                    |
+| Future Simple             | ✅      | ✅                    |
+| Future Continuous         | ✅      | ⚠️ Normally not used |
+| Future Perfect            | ✅      | ✅                    |
+| Future Perfect Continuous | ✅      | ❌ Normally not used  |
+
+### Why is Future Continuous Passive so awkward?
+
+Look at its formation:
+
+**Future Continuous Active:**
+
+> will + be + V-ing
+
+To make it passive, the continuous **being** has to remain:
+
+> will + be + being + V3
+
+Example:
+
+> The workers **will be building** the bridge.
+> ↓
+> The bridge **will be being built** by the workers.
+
+It's technically possible, but very cumbersome.
+
+### ⭐ For your exam, remember this
+
+The two forms you should especially remember as **normally not used in passive** are:
+
+> **Future Continuous → will be being + V3** ❌
+
+> **Future Perfect Continuous → will have been being + V3** ❌
+
+So if you're making your **Active & Passive Voice tense table**, don't simply put "impossible" for these. It's more accurate to write:
+
+**"Possible in theory, but extremely uncommon/awkward; normally avoided."**

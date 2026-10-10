@@ -1,9 +1,3 @@
-Great! You've completed **Deductive Reasoning**. 🎉
-
-The next topic, **Letter & Number Series**, is actually one of the **easiest and highest-scoring** topics in placement exams like **TCS, Cognizant, Accenture, Capgemini, Infosys, Wipro**, etc.
-
----
-
 # What is Letter & Number Series?
 
 The examiner gives you a **sequence (series)** of letters, numbers, or both.

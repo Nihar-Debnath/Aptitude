@@ -1,4 +1,4 @@
-# There no algebra in written foramat
+# There no algebra in written format
 
 
 
